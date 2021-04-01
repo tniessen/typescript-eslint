@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`declaration ClassDeclaration decoratorMany TSESTree - Error 1`] = `"NO ERROR"`;

@@ -17,7 +17,7 @@
     "url": "https://github.com/typescript-eslint/typescript-eslint/issues"
   },
   "scripts": {
-    "build": "lerna run build --ignore ast-spec",
+    "build": "lerna run build --ignore @typescript-eslint/ast-spec",
     "check:clean-workspace-after-install": "git diff --quiet --exit-code",
     "check:configs": "lerna run check:configs",
     "check:docs": "lerna run check:docs",
